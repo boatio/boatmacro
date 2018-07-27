@@ -21,7 +21,7 @@ setup(
     install_requires=install_requires,
     setup_requires=setup_requires,
     dependency_links=dependency_links,
-    # scripts=['manage.py'],
+    scripts=['boatmacro.py'],
     entry_points={
         'console_scripts': [
             ],
