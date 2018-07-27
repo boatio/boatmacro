@@ -17,7 +17,7 @@ setup(
     author='BoatonBoat',
     author_email='usbjewon@gmail.com',
     include_package_data=True,
-    packages=["ML"],
+    
     install_requires=install_requires,
     setup_requires=setup_requires,
     dependency_links=dependency_links,
