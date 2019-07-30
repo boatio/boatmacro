@@ -2,11 +2,6 @@ import win32api, win32con
 import win32com.client as comclt
 import time
 
-"""
-이 모듈은 보트타고 보트타고가 만들었습니다
-This module made by boat on boat
-youtube  : https://www.youtube.com/channel/UCKLJOBVZlGCLYJepRwLNeQA?view_as=subscriber
-"""
 keycode = {'backspace':0x08,
            'tab':0x09,
            'clear':0x0C,
